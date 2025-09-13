@@ -1,2 +1,4 @@
 # HooriyaShaikh-CV
-A simple yet professional resume showcasing my skills and projects, created using HTML &amp; CSS.
+This repository contains my professional CV in HTML and PDF formats. 
+- HTML version: viewable in browser
+- PDF version: ready for download
