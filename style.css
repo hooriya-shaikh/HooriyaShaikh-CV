@@ -1,0 +1,39 @@
+/* Name & Contact Center */
+.name {
+  text-align: center;
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.address {
+  text-align: center;
+  margin-top: 4px;
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 1.2;
+  color: #333;
+}
+
+.contact-me {
+  text-align: center;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+
+/* All Headings Center */
+h2 {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  color: #18240b;
+}
+h3 {
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
+h4 {
+    margin-top: 15px;
+    margin-bottom: 3px;
+}
